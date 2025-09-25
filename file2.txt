@@ -6,3 +6,5 @@ the Internet
 ADDED BUGGY
 
 welcome to psiog 4.o
+
+hi hello 
